@@ -1,0 +1,19 @@
+{
+  "name": "fauna-next-auth",
+  "version": "1.0.0",
+  "description": "Fauna next auth experiment",
+  "main": "index.js",
+  "author": "Thomas Baucke",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "next": "^9.3.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
